@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**stevemosiori/stevemosiori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Steve Mosiori, a Software Enginner from Earth. I love C#, Python and PHP. What about you?
 
-Here are some ideas to get you started:
+**Character Specs:**
+```diff
++    +2 AWS, Google Cloud Platform, Azure
++    +2 ASP.NET, Django, Laravel, React, .NET
++    +2 PHP, C#, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-    (Trait: Coffeenista) +30% coffee instake
+```
+
+
+<a href="https://github.com/stevemosiori">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=stevemosiori&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+<br />
+<a href="https://github.com/stevemosiori">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevemosiori&layout=compact" />
+</a>

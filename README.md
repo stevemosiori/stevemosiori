@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=2000&color=F7F7F7&background=151515&multiline=true&width=600&height=400&lines=%24+whoami;I'm+Steve+Mosiori;%24;%24+which+steve;A+software+developer+from+Earth;%24;%24;%24+Ookay%2C+Nice+to+know+you....)](https://git.io/typing-svg)
-
 <h1 align="center">Hi 👋, I'm Steve Mosiori</h1>
 <h3 align="center">A passionate backend developer from Kenya.</h3>
 
